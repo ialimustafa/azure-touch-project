@@ -62,9 +62,9 @@ To get this to work, follow the steps below:
 
 9.  Go back to your laptop and clone this repository.
     
-    `git clone https://github.com/saurabhkirtani/touch-sensor-azureIoT.git`
+    `git clone https://github.com/ialimustafa/azure-touch-project.git`
 
-    `cd touch-sensor-azureIoT `
+    `cd azure-touch-project `
     
 
 10.  Open your Azure account by going to https://portal.azure.com. If you've been ditributed a Azure pass, you can redeem it by following the instructions here: https://www.microsoftazurepass.com/howto. (If you don't have an Azure account, you can get a free trial here: https://azure.microsoft.com/en-in/free/)
